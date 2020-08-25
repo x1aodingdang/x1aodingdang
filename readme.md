@@ -11,4 +11,4 @@
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=x1aodingdang&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
-⭐️ From [x1aodingdang](https://github.com/x1aodingdang)
+⭐️ From [x1aodingdang](https://github.com/x1aodingdang) [![x1aodingdang](https://img.shields.io/badge/github-x1aodingdang-blue)](https://github.com/x1aodingdang)
