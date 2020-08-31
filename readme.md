@@ -4,7 +4,7 @@
 - 🔭 I’m a developer from Shenzhen
 - 🌱 I like games and coding
 - 👯 I also like to go out and climb mountains
-- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+- ⚡ Fun fact: I like ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 - 😄 Welcome to follow me, I'll Share something about the Front End.
 
 ## Some Statistics About Me
